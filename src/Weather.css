@@ -1,3 +1,6 @@
 .Weather {
-  background-color: red;
+  border: 1px solid #ede2e0;
+}
+ul {
+  list-style: none;
 }
