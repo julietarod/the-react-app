@@ -8,7 +8,8 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1> Weather App</h1>
+        <small> The Weather App</small>
+        
         <Weather />
       
 

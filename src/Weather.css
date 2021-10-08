@@ -1,6 +1,19 @@
 .Weather {
   border: 1px solid #ede2e0;
+  padding: 16px;
+  border-radius: 4px;
+  max-width: 600px;
 }
+
 ul {
   list-style: none;
+  color: #70757a;
+  font-size: 16px;
+  margin: 0%;
+  padding: 0;
+}
+.Weather h3 {
+  color: #202124;
+  display: block;
+  margin: 20px 0 0 0;
 }
