@@ -2,7 +2,6 @@
   border: 1px solid #ede2e0;
   padding: 16px;
   border-radius: 4px;
-  max-width: 600px;
 }
 
 ul {
@@ -16,4 +15,10 @@ ul {
   color: #202124;
   display: block;
   margin: 20px 0 0 0;
+}
+.Weather .temperature {
+  color: #202124;
+  display: inline-block;
+  font-size: 55px;
+  line-height: 60px;
 }
