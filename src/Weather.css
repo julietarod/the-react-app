@@ -19,6 +19,21 @@ ul {
 .Weather .temperature {
   color: #202124;
   display: inline-block;
-  font-size: 55px;
-  line-height: 60px;
+  font-size: 50px;
+  line-height: 64px;
+  margin-right: 2px;
+}
+.Weather .unit {
+  color: #202124;
+  display: inline-block;
+  font-size: 13px;
+  line-height: 24px;
+  margin-top: 6px;
+  padding-left: 4px;
+  vertical-align: top;
+}
+.Weather img {
+  margin-right: 8px;
+  width: 64px;
+  margin-bottom: 17px;
 }

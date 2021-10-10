@@ -23,10 +23,10 @@ export default function Weather() {
                     Mostly Cloudy
                 </li>
             </ul>
-            <div className="row">
+            <div className="row mt-3">
                 <div className="col-6">
                     <img src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png" alt="mostly cloudy" />
-                    <span clasName="temperature">6</span><span className="unit">°C </span>
+                    <span className="temperature">6</span><span className="unit">°C </span>
                  </div>   
                     <div className="col-6">
                         <ul>
