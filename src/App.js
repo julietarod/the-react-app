@@ -10,7 +10,7 @@ function App() {
       <div className="container">
         <small> The Weather App</small>
         
-        <Weather defaultCity="Madrid" />
+        <Weather defaultCity="Madrid" /> 
       
 
       <footer>This project was developed by <a href="https://github.com/julietarod" target="_blank" rel="noreferrer">Julieta Rod </a> and is {" "}
