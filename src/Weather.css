@@ -20,20 +20,19 @@ ul {
   color: #202124;
   display: inline-block;
   font-size: 50px;
-  line-height: 64px;
   margin-right: 0px;
 }
 .Weather .unit {
   color: #202124;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   margin-top: 6px;
   padding-left: 2px;
   vertical-align: top;
 }
-.Weather img {
-  margin-right: 8px;
-  width: 64px;
+.Weather canvas {
+  margin-right: 10px;
+  margin-top: 5px;
   margin-bottom: 17px;
 }
