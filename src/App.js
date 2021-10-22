@@ -19,14 +19,16 @@ function App() {
           >
             Julieta Rod{" "}
           </a>{" "}
-          and is{" "}
+          is{" "}
           <a
             href="https://github.com/julietarod/the-react-app"
             target="_blank"
             rel="noreferrer"
           >
             open sourced on GitHub
-          </a>
+          </a>{" "}
+          and hosted on{" "}
+          <a href="https://kind-bell-6158ac.netlify.app/">netlify</a>
         </footer>
       </div>
     </div>
