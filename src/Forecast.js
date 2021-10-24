@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import WeatherIcon from "./WeatherIcon";
 import "./Forecast.css";
 import axios from "axios";
+import "./FixedDate";
 
 export default function Forecast(props) {
   let [loaded, setLoaded] = useState(false);
@@ -12,6 +13,7 @@ export default function Forecast(props) {
   }
 
   if (loaded) {
+    console.log(forecast);
     return (
       <div className="Forecast">
         <div className="row">
