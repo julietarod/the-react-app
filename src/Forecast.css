@@ -5,4 +5,11 @@
 .min {
   opacity: 0.6;
   margin-left: 5px;
+  font-size: 11px;
+}
+.max {
+  font-size: 11px;
+}
+.forecast-day {
+  font-size: 12px;
 }

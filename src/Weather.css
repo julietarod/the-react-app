@@ -19,13 +19,14 @@ ul {
 .Weather .temperature {
   color: #202124;
   display: inline-block;
+
   font-size: 50px;
   margin-right: 0px;
 }
 .Weather .unit {
   color: #202124;
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 24px;
   margin-top: 6px;
   padding-left: 2px;
@@ -34,5 +35,5 @@ ul {
 .Weather canvas {
   margin-right: 10px;
   margin-top: 5px;
-  margin-bottom: 17px;
+  margin-bottom: 8px;
 }
