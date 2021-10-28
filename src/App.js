@@ -15,7 +15,7 @@ function App() {
           <a
             href="https://github.com/julietarod"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Julieta Rod{" "}
           </a>{" "}
@@ -23,12 +23,17 @@ function App() {
           <a
             href="https://github.com/julietarod/the-react-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open sourced on GitHub
           </a>{" "}
           and hosted on{" "}
-          <a href="https://kind-bell-6158ac.netlify.app/">netlify</a>
+          <a
+            href="https://kind-bell-6158ac.netlify.app/"
+            rel="noopener noreferrer"
+          >
+            netlify
+          </a>
         </footer>
       </div>
     </div>
